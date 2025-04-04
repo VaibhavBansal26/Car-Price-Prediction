@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Price Predictor
 
 A machine learning system for predicting car prices using MLflow and Streamlit. This project implements a complete pipeline for predicting car prices with an interactive web interface and real-time visualization.
@@ -209,3 +210,6 @@ The API documentation is available at `http://localhost:8000/docs` when the back
 
 \dt
 docker exec -it car-price-prediction-postgres-1 psql -U postgres -d cars_db
+=======
+# Car-Price-Prediction
+>>>>>>> 43019a37205547c8fe50eceb964c621383c9e345
